@@ -49,8 +49,8 @@
                    Height="150" Margin="5,10"/>
             <StackPanel>
                 <TextBlock Text="Informacje szczegółowe:" FontWeight="Bold"/>
-                <TextBlock Text="{Binding ElementName=ListBoxLista, Path=SelectedItem.Wykonawca}"/>
-                <TextBlock Text="{Binding ElementName=ListBoxLista, Path=SelectedItem.Tytul}"/>
+                <TextBlock Text="{Binding ElementName=ListBoxLista, Path=SelectedItem.Artist}"/>
+                <TextBlock Text="{Binding ElementName=ListBoxLista, Path=SelectedItem.Album}"/>
             </StackPanel>
         </StackPanel>
 
