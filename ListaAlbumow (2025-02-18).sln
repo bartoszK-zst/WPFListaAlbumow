@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaAlbumow (2025-02-18)", "ListaAlbumow (2025-02-18)\ListaAlbumow (2025-02-18).csproj", "{D12DCC3F-B207-45DD-A2A9-AC5E40F08086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12DCC3F-B207-45DD-A2A9-AC5E40F08086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12DCC3F-B207-45DD-A2A9-AC5E40F08086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12DCC3F-B207-45DD-A2A9-AC5E40F08086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12DCC3F-B207-45DD-A2A9-AC5E40F08086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C7068D-7F8C-423C-A6B2-E80A1BDCDFAB}
+	EndGlobalSection
+EndGlobal
